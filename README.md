@@ -1,5 +1,5 @@
-・CellAnimeToolとは  
-CellAnimeToolとは連番ファイルからSpriteStudioのアニメーションデータを作成するツールです。
+・SsCellAnimeToolとは  
+SsCellAnimeToolとは連番ファイルからSpriteStudioのアニメーションデータを作成するツールです。
 
 
 ・ドキュメント  
